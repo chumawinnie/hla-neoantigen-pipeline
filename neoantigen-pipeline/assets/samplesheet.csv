@@ -1,0 +1,3 @@
+sample_id,tumor_id,normal_id,tumor_bam,normal_bam,vcf
+SAMPLE001,SAMPLE001_T,SAMPLE001_N,/path/to/SAMPLE001_tumor.bam,/path/to/SAMPLE001_normal.bam,/path/to/SAMPLE001_somatic.vcf.gz
+SAMPLE002,SAMPLE002_T,SAMPLE002_N,/path/to/SAMPLE002_tumor.bam,/path/to/SAMPLE002_normal.bam,/path/to/SAMPLE002_somatic.vcf.gz

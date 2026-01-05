@@ -1,0 +1,63 @@
+# Nextflow
+.nextflow/
+.nextflow.log*
+work/
+results/
+output/
+
+# Singularity
+*.sif
+*.img
+
+# Test data (don't commit large files)
+test/data/*.bam
+test/data/*.vcf.gz
+test/data/*.fastq.gz
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Reference data (too large for git)
+references/
+vep_cache/
+
+# NetMHC tools (licensed software)
+netMHCpan*/
+netMHCIIpan*/
+
+# Local config overrides
+nextflow.config.local
+local.config
+
+# Trace files
+trace*.txt
+timeline*.html
+report*.html
+dag*.svg
