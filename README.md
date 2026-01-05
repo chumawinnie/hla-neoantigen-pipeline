@@ -108,7 +108,7 @@ curl -O https://ftp.ensembl.org/pub/release-110/fasta/homo_sapiens/dna/Homo_sapi
 ### 4. Clone Pipeline
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/neoantigen-pipeline.git
+git clone https://github.com/chumawinnie/neoantigen-pipeline.git
 cd neoantigen-pipeline
 ```
 
