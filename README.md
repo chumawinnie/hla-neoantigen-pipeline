@@ -57,7 +57,7 @@ This pipeline integrates HLA typing with neoantigen prediction to identify poten
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/neoantigen-pipeline.git
+git clone https://github.com/chumawinnie/neoantigen-pipeline.git
 cd neoantigen-pipeline
 
 # Run with test data
